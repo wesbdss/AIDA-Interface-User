@@ -1,0 +1,16 @@
+
+.Bloco{
+    border-radius: 3%;
+    margin-top: 1vh;
+    padding: 1vh;
+    padding-top: 1vh;
+    word-wrap: break-word;
+    
+}
+
+.me{
+    text-align-last: right;
+}
+.you{
+    text-align: center;
+}
